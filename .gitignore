@@ -1,2 +1,7 @@
 .venv/*
 .pytest_cache/*
+
+# Python generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
